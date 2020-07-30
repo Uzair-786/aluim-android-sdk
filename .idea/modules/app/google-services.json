@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188995917434",
+    "firebase_url": "https://org-alium-trackerlibrary.firebaseio.com",
+    "project_id": "org-alium-trackerlibrary",
+    "storage_bucket": "org-alium-trackerlibrary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188995917434:android:5305c9d8327f9eec538dc3",
+        "android_client_info": {
+          "package_name": "com.alium.asdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188995917434-hc9tqvtqsns3a8mct4imltrrgegouctr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alium.asdk",
+            "certificate_hash": "4aa566309137d5be57185c29497581f028f9c847"
+          }
+        },
+        {
+          "client_id": "188995917434-8br46h8m4b6tt6s3qcgfk8gv0m4el8gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwu1lL3G9IMppOeMieW4oEIXT72Rjp50U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188995917434-8br46h8m4b6tt6s3qcgfk8gv0m4el8gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
